@@ -17,7 +17,7 @@ class App extends Component {
       selectedVideo: null
     };
 
-    this.videoSearch("surfboards");
+    this.videoSearch("tyson fury vs deontay wilder post fight");
   }
 
   videoSearch(term) {
